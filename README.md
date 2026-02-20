@@ -78,10 +78,8 @@ AI-assisted Quality & Automation | Paraguay 🇵🇾
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 
   <!-- QA / Automation -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/playwright.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachejmeter.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" width="40" height="40"/>
 
   <!-- Dev / Infra -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
@@ -89,23 +87,9 @@ AI-assisted Quality & Automation | Paraguay 🇵🇾
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
 
   <!-- AI -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="40" height="40"/>
 </p>
-
 ---
-
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=j0nbennett&show_icons=true&locale=en&layout=compact"
-       alt="j0nbennett" />
-</p>
-
-<p>&nbsp;
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=j0nbennett&show_icons=true&locale=en"
-       alt="j0nbennett" />
-</p>
 
 <p>
   <img align="center"
